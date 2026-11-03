@@ -11,3 +11,7 @@
 
 ## Моя мета
 Отримати практичний стек навичок у сфері AI, реалізувати власні проєкти та успішно працевлаштуватися за фахом.
+
+---
+
+> "Artificial intelligence is not a substitute for human intelligence; it is a tool to amplify it."
